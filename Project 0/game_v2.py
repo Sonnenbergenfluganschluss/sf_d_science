@@ -48,10 +48,8 @@ def score_game(random_predict):
     
     for number in random_array:
         count_ls.append(predict_20(number))
-    print(count_ls)    
     score = int(np.mean(count_ls))
-    print(f"Ваш алгоритм угадывает число в среднем за: {score} попыток")
-    return (score)
+    return print(f"Наш алгоритм угадывает число в среднем за: {score} попыток")
 
 if __name__ == '__main__':
     # Запускаем программу
