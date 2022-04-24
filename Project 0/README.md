@@ -31,3 +31,18 @@
 ....
 
 :arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project%200#оглавление)
+
+### Этапы работы над проектом
+....
+
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project%200#оглавление)
+
+### Результат
+....
+
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project%200#оглавление)
+
+### Выводы
+....
+
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project%200#оглавление)
