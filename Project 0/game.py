@@ -1,6 +1,6 @@
 import numpy as np
 
-number = np.random.randint(1,100)
+number = np.random.randint(1,101)
 count = 0
 while True:
     count += 1
