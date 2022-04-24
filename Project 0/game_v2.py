@@ -44,7 +44,7 @@ def score_game(random_predict):
     
     count_ls = []
     # np.random.seed(1)
-    random_array = np.random.randint(1, 101, size=(1000))
+    random_array = np.random.randint(1, 101, size=(30))
     
     for number in random_array:
         count_ls.append(predict_20(number))
