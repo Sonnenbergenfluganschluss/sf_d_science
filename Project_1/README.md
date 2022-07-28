@@ -1,22 +1,22 @@
 # <center> Проект: Анализ вакансий на hh.ru
 
 ##  <center> Оглавление
-[1. Описание проекта](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#описание-проекта)
+[1. Описание проекта](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-описание-проекта)
 
-[2. Проблематика](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#проблематика)
+[2. Проблематика](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-проблематика)
 
-[3. Краткая информация о данных](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#результат)
+[5. Результат](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-результат)
 
-[6. Выводы](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#выводы)
+[6. Выводы](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-выводы)
 
 ###  <center> Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и состоит наша задача.
 
-:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project%200#оглавление)
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-оглавление)
 
 
 ###  <center> Проблематика
@@ -36,7 +36,7 @@
 В нашем распоряжении имеется база резюме, выгруженная с сайта поиска вакансий hh.ru. 
 Файл с исходными данными вы можете скачать [здесь](), а дополнительная база данных [здесь]()
 
-:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project%200#оглавление)
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-оглавление)
 
 ###  <center> Этапы работы над проектом
 Наш проект состоит из четырёх частей:
@@ -47,14 +47,14 @@
 
 Каждая часть состоит из блока практических заданий, которые необходимо выполнить, и контрольных вопросов на платформе, отвечая на которые,можно проверить верность своего решения. Задания выполняются последовательно.
 
-:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project%200#оглавление)
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-оглавление)
 
 ###  <center> Результат
 - Программа "угадывает" число менее, чем за 20 попыток.
 
-:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project%200#оглавление)
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-оглавление)
 
 ###  <center> Выводы
 - Мы справились с поставленной задачей.
 
-:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project%200#оглавление)
+:arrow_up: [к оглавлению](https://github.com/Sonnenbergenfluganschluss/sf_d_science/tree/main/Project_1#-оглавление)
